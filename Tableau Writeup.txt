@@ -1,0 +1,32 @@
+For this data, I was interested in looking at demographic trends in use of the CitiBike 
+service. Demographics (age and gender) allow for insights that marketing 
+executives can use to make decisions about which groups of people to target 
+with advertisements. 
+
+
+First, I visualized the average trip duration and number of records by gender. 
+The data showed that men represent nearly 3.5 times as many transactions, but 
+that women rode for longer duration per trip, and thus spent more money per trip. 
+This suggests that the customer acquisition efforts should be targeted to women 
+because they are underrepresented and spend more per transaction. 
+
+
+Next, I split the file by people aged >30 or <30 years old, and found that younger 
+people (less than 30 years) are grossly underrepresented in the CitiBike customer 
+base. Additionally, younger people have similar trip durations to older people. 
+Thus, it would be wise for advertisers to target younger people to bring in more 
+new customers.
+
+
+Taken together these two phenomena suggest that advertising dollars are best spent 
+by targeting young women. There are more young women that who are not using CitiBike 
+than any other demographic that I looked at, so the odds of turning an impression into 
+a transaction are highest with this group.
+
+
+Other trends I generated in the Tableau notebook include the 10 most popular station ID’s, 
+as well as a city map displaying all transactions on a bubble chart. The bubble chart 
+displays location by number of transactions and duration of ride.  Advertising executives 
+would be keen to advertise in areas with both high ride duration (more money per transaction) 
+and low number of transactions so that the services are more evenly distributed across 
+all locations. 
